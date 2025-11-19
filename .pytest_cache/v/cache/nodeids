@@ -1,0 +1,7 @@
+[
+  "ECom_QA_Automat_Python/tests/test_amazon.py::test_amazon_full_flow",
+  "ECom_QA_Automat_Python/tests/test_flipkart.py::test_flipkart_full_flow",
+  "ECom_QA_Automat_Python/tests/test_login.py::test_invalid_login_shows_error",
+  "ECom_QA_Automat_Python/tests/test_login.py::test_valid_login",
+  "ECom_QA_Automat_Python/tests/test_products.py::test_add_product_to_cart_and_verify_count"
+]
