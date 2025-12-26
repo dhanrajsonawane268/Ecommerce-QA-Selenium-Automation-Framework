@@ -6,3 +6,8 @@ reports/
 *.png
 .env
 resume_or_run.txt
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
+venv/
