@@ -12,7 +12,7 @@
 | Platform | Link |
 |----------|------|
 | 📧 Email | dhanrajsonawane268@gmail.com |
-| 📱 Mobile | 8080904603 |
+| 📱 Mobile | 808090xxxx |
 | 🌐 GitHub | https://github.com/dhanrajsonawane268 |
 | 💼 LinkedIn | https://www.linkedin.com/in/dhanraj-sonawane-985a52283 |
 | 🏆 HackerRank | https://www.hackerrank.com/profile/dhanrajsonawane2 |
